@@ -12,3 +12,5 @@ Tune the hyperparameters of an autoencoder.
 Implement skip connections and other techniques to improve performance.
 Implement a cGAN and compare with an autoencoder.
 Improve on the cGAN by trying one of several techniques to enhance training.
+
+Due to the file size, the uploaded ipynb file is not run.
